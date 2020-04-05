@@ -35,15 +35,15 @@ class About extends Component {
 						         {city} {state}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                     <span> <a href="mailto:rob.m.quinn@gmail.com">rob.m.quinn@gmail.com</a></span>
 					   </p>
                </div>
-               <div className="columns download">
+               {/* <div className="columns download">
                   <p>
-                  {/* <a ref="../public/images/img/resumeRobQuinn.pdf" ><i className="fa fa-download"></i>Download Resume</a> */}
+                  
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-               </div>
+               </div> */}
             </div>
          </div>
       </div>
