@@ -46,10 +46,6 @@ class Resume extends Component {
           {work}
         </div>
     </div>
-
-
-
-  */}
    </section>
     );
   }
