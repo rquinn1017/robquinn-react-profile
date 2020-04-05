@@ -51,9 +51,14 @@
         "company":"Genworth Financial",
         "title":"Application Developer/Pega Senior System Archtect",
         "years":"June 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Obtained Pega System Achitect (CSA) and Pega Senior System Architect (CSSA) certifications. Develop all aspects of our Customer Service Workflow Applicaiton. Prepared major release files and documentation. Build Soap and Rest service connectors. Configure complex UI requirements. Create case types and flows. Mentored new hire. Supported contractors in troubleshooting application products."
+      },
+      {
+        "company":"Genworth Financial",
+        "title":"QA Test Analyst, QA Lead ",
+        "years":"Septemper 2016 - May 2018",
+        "description":"Oversee onshore and offshore QA resources. Review all test cases written by team members prior to execution. Determine scope and approach for regression automation test bed. Write and execute automated scripts using HP UFT and Selenium to create test data, as well as, for regression testing. Partner with COE to execute Performance Testing. Create and execute functional test cases. Write and execute select, insert, update, and delete SQL statements to create and modify test data using Microsoft SQL Server Management Studio and Oracle SQL Developer."
       }
-   
     ],
     "skills":[
       {
@@ -111,18 +116,6 @@
         "category":"A React based employee directory",
         "image":"happyBeaver.JPG",
         "url":"https://master.d13s07pv7e2yev.amplifyapp.com/"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
