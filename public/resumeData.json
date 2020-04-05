@@ -91,25 +91,25 @@
       {
         "title":"Virginia Green",
         "category":"Application that gives eco-friendly tourists the opportunity to connect with eco-friendly businesses",
-        "image":"vaGreen.jpg",
+        "image":"vaGreen.JPG",
         "url":"https://va-green.herokuapp.com/"
       },
       {
         "title":"State of Happiness",
         "category":"Application that allows users to select a state and view a variety of statistics including breweries",
-        "image":"stateOfHappiness.jpg",
+        "image":"stateOfHappiness.JPG",
         "url":"https://baileyrva.github.io/stateofhappiness/"
       },
       {
         "title":"Scruge McDuck",
         "category":"Progressive app using React for keeping debits and credits with our without internet connection",
-        "image":"budgetTracker.jpg",
+        "image":"budgetTracker.JPG",
         "url":"https://scrugemcduck.herokuapp.com/"
       },
       {
         "title":"Employee Directory",
         "category":"A React based employee directory",
-        "image":"happyBeaver.jpg",
+        "image":"happyBeaver.JPG",
         "url":"https://master.d13s07pv7e2yev.amplifyapp.com/"
       }
     ]
