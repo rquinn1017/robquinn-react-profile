@@ -16,8 +16,19 @@ class Contact extends Component {
 
     return (
       <section id="contact">
+<div>
+   {/* <h1>Contact Info</h1> */}
+<h4>Contact Info</h4>
+<p className="address">
+   {name}<br />
+   {street} <br />
+   {city}, {state} {zip}<br />
+   <span>{phone}</span><br />
+   <span> <a href="mailto:rob.m.quinn@gmail.com">Email Me</a></span>
+</p>
+</div>
 
-         <div className="row section-head">
+         {/* <div className="row section-head">
 
             <div className="two columns header-col">
 
@@ -34,7 +45,12 @@ class Contact extends Component {
          </div>
 
          <div className="row">
+            
             <div className="eight columns">
+            <div className="widget widget_contact">
+
+
+
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
@@ -72,24 +88,14 @@ class Contact extends Component {
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
-           </div>
+           </div> */}
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
-
-					   <h4>Address and Phone</h4>
-					   <p className="address">
-						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
-					   </p>
-				   </div>
-
+           
               
             </aside>
-      </div>
+      {/* </div> */}
    </section>
     );
   }
