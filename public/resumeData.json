@@ -106,17 +106,18 @@
         "url":"https://baileyrva.github.io/stateofhappiness/"
       },
       {
-        "title":"Scruge McDuck",
-        "category":"Progressive app using React for keeping debits and credits with our without internet connection",
-        "image":"budgetTracker.JPG",
-        "url":"https://scrugemcduck.herokuapp.com/"
-      },
-      {
         "title":"Employee Directory",
         "category":"A React based employee directory",
         "image":"happyBeaver.JPG",
         "url":"https://master.d13s07pv7e2yev.amplifyapp.com/"
+      },
+      {
+        "title":"EduCoin",
+        "category":"A React based rewards based education platform - The future of rewards based education",
+        "image":"eduCoinDemo.gif",
+        "url":"https://edu-coin.herokuapp.com/"
       }
+
     ]
   }
 }
